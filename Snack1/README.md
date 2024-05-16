@@ -14,10 +14,10 @@ Stampare a schermo la bici con peso minore utilizzando  template literal.
 <!--FUNZIONE minValue()-->
 Prende in input un array
 <!---->
---Impostare min = il valore più grande assegnabile ad un int
----Creare un ciclo for per gli elementi dell'array
+-Impostare min = il valore più grande assegnabile ad un int
+-Creare un ciclo for per gli elementi dell'array
     SE il peso[i] < min
         -min assumerà come nuovo valore il peso[i]
-----Creare un ciclo while per ritrovare la posizione corrispondente al min
+---Creare un ciclo while per ritrovare la posizione corrispondente al min
 <!---->
 Return : un oggetto in cui salviamo la posizione e il valore min
